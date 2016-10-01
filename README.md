@@ -1,2 +1,3 @@
 # Hello-World-
 just another repository
+Hello everybody, my name is Wellington, never worked with Information Technology, just made the course Bachelor of Information System and learned many things like Programming Logic, Language C, JAVA, database logic, Oracle Database, PL / SQL, Oracle Database Management, Visual Basic, HTML, CSS3, jQuery, JAVASCRIPT among others ... Now I need to work to learn everything that passed me at the university, I want to learn, I am determined and just need to organize everything this so that I can become a professional in the iT Tale area with the help of all am humble and accept the help of all. Thank you so much!
